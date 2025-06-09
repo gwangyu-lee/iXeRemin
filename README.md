@@ -1,6 +1,7 @@
 # iXeRemin
-
 An application that reimagines the theremin in XR and sends real-time OSC data from hand gestures.    
+
+![ScreenRecording_06-09-2025 01-29-58_1-1](https://github.com/user-attachments/assets/16aab375-9c50-44e6-895c-a50227f6bfb9)
 
 ## Tutorial Links
 <a href="https://www.gwangyulee.com/p/ixeremin-tutorial-eng.html" target="_blank">iXeRemin Tutorial</a>    
